@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/prateekpronoc" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/https://x.com/PrateekdevOps" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/prateekkumarsrivastava" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+ **<h3 align="left">🚀 Passionate Project Manager with expertise in managing and delivering robust, scalable web and software projects. Skilled in Scrum methodologies, project planning, and team coordination. Proficient in using JIRA for agile tracking, managing project timelines, resource allocation, and ensuring on-time delivery. Experienced in project costing, client communication, and optimizing team performance for successful project execution.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
