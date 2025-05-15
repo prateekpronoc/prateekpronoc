@@ -19,10 +19,17 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Developing Selfdrive car Management using Angular and Nodejs**
-- 🌱 I'm currently learning: **📚 Exploring React**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB,Typscript, Laravel and  RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
+🚀 Current Focus:
+Leading the development of a Self-Drive Car Management System using Angular and Node.js, ensuring scalable architecture and optimal performance.
+
+📚 Currently Learning:
+Expanding expertise in React.js and staying updated with modern front-end frameworks and best practices.
+
+💡 Areas of Expertise:
+JavaScript, React, Node.js, MongoDB, TypeScript, Laravel, RESTful APIs, and building robust full-stack web applications.
+
+🎯 Fun Fact:
+Once successfully debugged a critical production issue while on a roller coaster ride — a true test of multitasking under pressure!
 
  **<h3 align="left">Skills</h3>**
 
